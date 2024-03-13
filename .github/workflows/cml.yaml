@@ -1,4 +1,4 @@
-name: hamza bubere 43 cicd pipeline
+name: hamza bubere
 on: [push]
 jobs:
   run:
